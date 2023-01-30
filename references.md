@@ -1,5 +1,3 @@
-# These are my references for the pancake making competition:
+# References
 
-- [ ] Mr. Charles Barone
-- [ ] Prof. Michael Letka
-- [ ] Sir Joshua Cruz
+* octocat 1 😈
